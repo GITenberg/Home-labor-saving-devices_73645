@@ -1,0 +1,41 @@
+_repo: Home-labor-saving-devices_73645
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Gamble, R. E., Mrs.
+    alias: Gamble, Mrs. R. E.
+    gutenberg_agent_id: '57162'
+    url: http://www.gutenberg.org/2009/agents/57162
+creator:
+  author:
+    agent_name: Scott, Rhea C. (Rhea Clarke)
+    alias: Scott, Rhea Clarke
+    birthdate: 1876
+    deathdate: 1963
+    gutenberg_agent_id: '57082'
+    url: http://www.gutenberg.org/2009/agents/57082
+description: ''
+edition_note: 2nd edition, revised.
+gutenberg_issued: '2024-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73645'
+language: en
+pgterms:marc905: 20101209151133scott
+pgterms:marc906: '1917'
+pgterms:marc907: US
+production_note: Carol Brown, Chris Curnow and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aPhiladelphia :$bJ. B. Lippincott Company, $c1917, copyright
+  1918.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Home economics'
+- !lcsh 'Woodwork'
+- !lcc 'TX'
+- GITenberg
+title: Home labor saving devices
+url: http://www.gutenberg.org/ebooks/73645
