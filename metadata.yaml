@@ -6,6 +6,9 @@ contributor:
     alias: Gamble, Mrs. R. E.
     gutenberg_agent_id: '57162'
     url: http://www.gutenberg.org/2009/agents/57162
+covers:
+- cover_type: archival
+  image_path: 73645-h/images/cover.jpg
 creator:
   author:
     agent_name: Scott, Rhea C. (Rhea Clarke)
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '57082'
     url: http://www.gutenberg.org/2009/agents/57082
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73645#Home-labor-saving-devices
 edition_note: 2nd edition, revised.
 gutenberg_issued: '2024-05-18'
 gutenberg_type: Text
